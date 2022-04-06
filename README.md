@@ -1,0 +1,4 @@
+- Bacon
+- Eggs
+- Milk
+- Bread
